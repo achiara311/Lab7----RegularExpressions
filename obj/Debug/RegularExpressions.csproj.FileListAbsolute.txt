@@ -1,0 +1,7 @@
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\obj\Debug\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\RegularExpressions\obj\Debug\RegularExpressions.pdb
